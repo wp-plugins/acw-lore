@@ -63,3 +63,8 @@ in your page.
 == Changelog ==
 
 = 1.0 =
+
+
+== Screenshots ==
+
+1. banner-772x250.png
