@@ -1,6 +1,6 @@
-=== Plugin Name ===
+=== ACW Lre ===
 Contributors: Azumi93
-Donate link: PayPal - stefany.dyulgerova@gmail.com
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QKPPZSQYBU7KS
 Tags: the american civil war, quotes, the american civil war quotes
 Requires at least: 3.0.1
 Tested up to: 3.8
