@@ -1,4 +1,4 @@
-=== ACW Lre ===
+=== ACW Lore ===
 Contributors: Azumi93
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QKPPZSQYBU7KS
 Tags: the american civil war, quotes, the american civil war quotes
@@ -15,7 +15,7 @@ Plugin for displaying random quotes from the American Civil War in the descripti
 This Plugin displays random quotes from various participants during the American Civil War (1861 - 1865). If you have a history website, The American Civil War only website, or 
 you just want to display quotes from that period, then this plugin is for you.
 All quotes shall appear beneath the title. For example, if the title of your website is
-"General Robert E. Lee" and the current description is "The live of General Lee"
+"General Robert E. Lee" and the current description is "The life of General Lee"
 then after the installation of the plugin, the line will be changed to a random
 quote with each refresh of the page. You can refresh the webpage with F5.
 All quotes are stored in the acwlore_quotes.txt file in the directory of the ACW Lore plugin.
